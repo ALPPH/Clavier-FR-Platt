@@ -1,2 +1,2 @@
 # Clavier-Platt
-Mon clvier en platt
+Mon clavier en platt
